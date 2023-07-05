@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My nickname is Humeow :D
+I'm on Korea Digital Media High School =y=
+I want to be a backend programmer!
+
 <!--
 **Humeow/Humeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
